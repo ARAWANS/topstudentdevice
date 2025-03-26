@@ -1,6 +1,6 @@
 # Account Deletion Request
 
-## masterAi(com.noppatad.topstudentdevice--temporary) by Arawans Technology 
+## masterAi(com.noppatad.topstudentdevice) by Arawans Technology 
   developer >> Noppatad T.
 The app name or developer name displayed in your product information on the Store.
 
